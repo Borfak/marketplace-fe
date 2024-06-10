@@ -8,7 +8,7 @@ Swetrix Marketplace is a great way to customise Swetrix functionality with exten
 You can install community-made or publish your own extensions and get new functionality on Swetrix!
 
 ## License
-
+ 
 Swetrix is released under the AGPL v3.0 licence, see [LICENSE](LICENSE).
 
 ## Install Swetrix
